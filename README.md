@@ -9,8 +9,8 @@
     		<ul>
         		<li><a href="/">Home</a></li>
 	        	<li><a href="/about">About</a></li>
-        		<li><a href="/coding">CV</a></li>
-        		<li><a href="/hobbies">Blog</a></li>
+        		<li><a href="/coding">Coding</a></li>
+        		<li><a href="/hobbies">Hobbies</a></li>
             <li><a href="/funfacts">Fun Facts</a></li>
     		</ul>
 		</nav>
